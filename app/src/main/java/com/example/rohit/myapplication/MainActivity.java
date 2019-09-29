@@ -14,4 +14,9 @@ public class MainActivity extends AppCompatActivity {
     {
         System.out.println("This is second push i am doning");
     }
+    private void hellorroiht()
+    {
+        System.out.println("fourth push from another");
+    }
+
 }
