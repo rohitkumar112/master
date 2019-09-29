@@ -19,4 +19,9 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("fourth push from another");
     }
 
+    private void sum()
+    {
+        System.out.println("push from rohit");
+    }
+
 }
